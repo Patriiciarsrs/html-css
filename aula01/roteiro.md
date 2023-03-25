@@ -15,3 +15,4 @@ git push -u origin main
 
 ### IMPORTANTE
 * cls  /* para limpar a tela do terminal */
+* clear
