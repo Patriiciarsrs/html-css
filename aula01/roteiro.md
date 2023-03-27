@@ -5,6 +5,7 @@
 * git commit -m "atualização blablabla"
 
 * git push
+* git push --force
 
 ### Somente quando estiver subindo pela primeira vez ###
 
